@@ -5,7 +5,7 @@ import { Mail, Phone, MapPin, Github, Linkedin, Send, Download } from "lucide-re
 
 const connectData = {
   email: "harikrishnan777h@gmail.com",
-  phone: "+91 9092044451",
+  phone: "+91 9092044292",
   github: "https://github.com/officialhari",
   linkedin: "https://www.linkedin.com/in/harikrishnan2006/",
   location: "Chennai, India",
