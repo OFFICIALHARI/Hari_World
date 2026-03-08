@@ -1,0 +1,7 @@
+export { About } from "./About"
+export { Skills } from "./Skills"
+export { Projects } from "./Projects"
+export { Education } from "./Education"
+export { Achievements } from "./Achievements"
+export { Certifications } from "./Certifications"
+export { Connect } from "./Connect"
